@@ -5,9 +5,9 @@
 // process.exit(1);
 
 // Controlar eventos del proceso
-process.on('exit', () =>{
-    // Limpiar los recursos, ej.
+process.on('exit', () => {
+  // Limpiar los recursos, ej.
 })
 
 // Current working directory
-console.log(process.cwd());
+console.log(process.cwd())
