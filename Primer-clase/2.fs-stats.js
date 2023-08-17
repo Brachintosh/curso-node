@@ -8,4 +8,4 @@ console.log(
     stats.isDirectory(), // si es un directorio.
     stats.isSymbolicLink(), // si es un enlace simbolico.
     stats.size, //tamaño en bytes.
-);
+)
